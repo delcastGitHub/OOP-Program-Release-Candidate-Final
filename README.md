@@ -8,4 +8,4 @@ They could be asked to create a production plant for any type of product ranging
 
 Your task is to create a flexible structure that could be used in any production line. This structure would then allow easy modification to handle different products. Add a custom footer
 
-NOTE: For the documentation uses the Doc file and click in index.html
+NOTE: For the documentation use the Doc folder and click in index.html
